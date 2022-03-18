@@ -31,6 +31,7 @@
 |[Compress JPEG](https://imagecompresser.com/compress-jpeg-to-exact-size)|FREE Jpeg image compressor|
 |[Random Color Generator](https://imagecompresser.com/random-color-generator)|Random Color Generator| 
 |[Random Country Generator](https://imagecompresser.com/random-country-generator)|Random country Generator or country picker|
+|[Random team Generator](https://imagecompresser.com/random-team-generator)|Random group generator|
 
 
 
